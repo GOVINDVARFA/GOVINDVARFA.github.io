@@ -2,6 +2,10 @@
 
 A responsive React, TypeScript, and Vite portfolio featuring six projects, project filtering and detail dialogs, experience, education, skills, a PDF résumé, and email contact.
 
+**Website:** https://govindvarfa.github.io/
+
+**Repository:** https://github.com/GOVINDVARFA/GOVINDVARFA.github.io
+
 ## Run locally
 
 ```sh
